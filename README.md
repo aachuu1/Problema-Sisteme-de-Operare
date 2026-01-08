@@ -1,5 +1,5 @@
 # Problema-Sisteme-de-Operare
-**Cerinta**
+**Cerinta:**
   Scrieti un program care numara aparitiile unui numar intr-un vector
  (numarul si elementele vectorului sunt date ca argumente in linia de
  comanda) printr-o strategie de tip divide et impera: se imparte vectorul
